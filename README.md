@@ -1,7 +1,5 @@
 # Desafio 1 UNES
 
-<<<<<<< HEAD
-Arquivo README.md alterado no pc. 21h36
-=======
-14-03-23
->>>>>>> origin/main
+Criação de página em HTML, com CSS externo.
+
+Primeiro exercício da disciplina de Desenvolvimento Web com o professor Jean. Curso de Desenvolvimento de Software Multiplataforma, 1º Semestre, Fatec São José dos Campos.
